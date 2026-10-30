@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lampoon-sums-6b.github.io/sz-f21/sitemap.xml
